@@ -44,4 +44,5 @@ ORDER BY stay DESC;
 ## 📌 Conclusion
 
 Length of stay plays a significant role in mental health outcomes of international students.
+<img width="620" height="244" alt="image" src="https://github.com/user-attachments/assets/eb02a396-4349-42b1-aec3-1cf2c6a2efe0" />
 
